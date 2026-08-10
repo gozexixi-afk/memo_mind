@@ -1,0 +1,26 @@
+{
+  "messages": [
+    {
+      "role": "system",
+      "content": "你是 MemoMind，一个友好的AI助手。用简洁的中文回答。"
+    },
+    {
+      "role": "user",
+      "content": "我是小鱼仔"
+    },
+    {
+      "role": "assistant",
+      "content": "嗨，小鱼仔！🐟 很高兴认识你！有什么我可以帮你的吗？"
+    },
+    {
+      "role": "user",
+      "content": "我之前说了什么"
+    },
+    {
+      "role": "assistant",
+      "content": "你之前说：“我是小鱼仔” 🐟  \n然后我回应了你，问你有什么可以帮忙的。  \n需要我帮你回顾其他内容吗？还是有新的问题想聊聊？"
+    }
+  ],
+  "saved_at": "2026-08-10T13:18:44.645257",
+  "turns": 2
+}
